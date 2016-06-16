@@ -8,7 +8,7 @@ Now, changes made to areas_copy shouldn't affect areas. Hit Submit Answer to che
 areas = [11.25, 18.0, 20.0, 10.75, 9.50]
 
 # Create areas_copy
-areas_copy[:] = areas
+areas_copy = areas[:]
 
 # Change areas_copy
 areas_copy[0] = 5.0
