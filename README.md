@@ -10,6 +10,10 @@
  - Variable and Types
  
 - List: A Data Structure 
+ - List Basics
+ - Subsetting Lists
+ - Manipulating Lists
+ 
 - Functions & Pacakges
 - Numpy
 - Plotting with MatPlotLib
