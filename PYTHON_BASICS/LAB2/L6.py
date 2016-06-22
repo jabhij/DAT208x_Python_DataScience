@@ -1,9 +1,11 @@
+"""
 Instructions --
 
 Hit Submit Answer to run the code on the right. Try to understand the error message.
 Fix the code on the right such that the printout runs without errors; use the function str() to convert the variables to strings.
 Convert the variable pi_string to a float and store this float as a new variable, pi_float.
 ---------------
+"""
 
 # Definition of savings and result
 savings = 100
