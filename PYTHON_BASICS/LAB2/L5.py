@@ -1,3 +1,4 @@
+"""
 Instructions --
 
 Calculate the product of savings and factor. Store the result in year1.
@@ -5,6 +6,7 @@ What do you think the resulting type will be? Find out by printing out the type 
 Calculate the sum of desc and desc and store the result in a new variable doubledesc.
 Print out doubledesc. Did you expect this?
 ---------------
+"""
 
 # Several variables to experiment with
 savings = 100
