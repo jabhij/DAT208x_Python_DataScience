@@ -1,8 +1,10 @@
+"""
 Instructions --
 
 Use the index() method to get the index of the element in areas that is equal to 20.0. Print out this index.
 Call count() on areas to find out how many times 14.5 appears in the list. Again, simply print out this number.
 ----------------
+"""
 
 # Create list areas
 areas = [11.25, 18.0, 20.0, 10.75, 9.50]
