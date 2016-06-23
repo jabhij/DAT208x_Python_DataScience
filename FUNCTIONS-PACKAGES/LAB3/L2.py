@@ -1,3 +1,4 @@
+"""
 Instructions --
 
 Perform a selective import from the math package where you only import the radians function.
@@ -6,6 +7,7 @@ where rr is the radius and ϕϕ is the angle in radians. To convert an angle in 
 which you just imported.
 Print out dist.
 ------------------
+"""
 
 # Definition of radius
 r = 192500
