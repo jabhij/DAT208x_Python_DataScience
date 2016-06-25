@@ -1,9 +1,11 @@
+"""
 Instructions --
 
 Create a list, areas, that contains the area of the hallway (hall), kitchen (kit), living room (liv), bedroom (bed) and bathroom (bath), 
 in this order. Use the predefined variables.
 Print areas with the print() function.
 -----------------
+"""
 
 # area variables (in square meters)
 hall = 11.25
