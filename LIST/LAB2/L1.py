@@ -1,9 +1,11 @@
+"""
 Instructions --
 
 Print out the second element from the areas list, so 11.25.
 Subset and print out the last element of areas, being 9.50. Using a negative index makes sense here!
 Select the number representing the area of the living room and print it out.
 -----------------
+"""
 
 # Create the areas list
 areas = ["hallway", 11.25, "kitchen", 18.0, "living room", 20.0, "bedroom", 10.75, "bathroom", 9.50]
