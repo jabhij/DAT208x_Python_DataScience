@@ -26,4 +26,5 @@ light = np.array(bmi < 21)
 print (bmi)
 
 # Print out BMIs of all baseball players whose BMI is below 21
-print ([light])
+print (light)
+print (bmi[light])
