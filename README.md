@@ -19,10 +19,10 @@
 - Plotting with MatPlotLib
 - Control Flows and Pandas
 
-### Catch me @
+### Catch me -
 
-For any suggestion or query catch me @
-- Twitter - @jabhij
-- Web - www.letustweak.com
+For any query, ping me on 
+- Twitter: [@jabhij] (https://twitter.com/jabhij)
+- Web: [LetUsTweak] (http://letustweak.com)
 
-Cheers!
+Hope, it helps!!  ヅ
